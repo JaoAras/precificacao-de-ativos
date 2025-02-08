@@ -1,0 +1,6 @@
+@precificacao_de_ativos_HostAddress = http://localhost:5244
+
+GET {{precificacao_de_ativos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
